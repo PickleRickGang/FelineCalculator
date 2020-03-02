@@ -4,7 +4,7 @@ using System.Text;
 
 namespace FelineCalculator
 {
-    class ICanSwim
+    interface ICanSwim
     {
         void Swim();
     }
