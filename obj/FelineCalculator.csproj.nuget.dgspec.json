@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FelineCalculator-master\\FelineCalculator.csproj": {}
+    "E:\\FelineCalculator-master\\FelineCalculator-master\\FelineCalculator.csproj": {}
   },
   "projects": {
-    "D:\\FelineCalculator-master\\FelineCalculator.csproj": {
+    "E:\\FelineCalculator-master\\FelineCalculator-master\\FelineCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FelineCalculator-master\\FelineCalculator.csproj",
+        "projectUniqueName": "E:\\FelineCalculator-master\\FelineCalculator-master\\FelineCalculator.csproj",
         "projectName": "FelineCalculator",
-        "projectPath": "D:\\FelineCalculator-master\\FelineCalculator.csproj",
-        "packagesPath": "C:\\Users\\164637\\.nuget\\packages\\",
-        "outputPath": "D:\\FelineCalculator-master\\obj\\",
+        "projectPath": "E:\\FelineCalculator-master\\FelineCalculator-master\\FelineCalculator.csproj",
+        "packagesPath": "C:\\Users\\166231\\.nuget\\packages\\",
+        "outputPath": "E:\\FelineCalculator-master\\FelineCalculator-master\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\164637\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\166231\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
